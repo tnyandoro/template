@@ -1,1 +1,1 @@
-export const wizard = 'webpack';
+export const wizard = 'Webpack';
