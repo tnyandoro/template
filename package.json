@@ -1,0 +1,23 @@
+{
+  "name": "leaderboard",
+  "version": "1.0.0",
+  "description": "IMPORTANT NOTE This is the first time you will use Gitflow. Keep that in mind! Create an npm project with webpack. (If you need a refresher, check the previous project or webpack exercise). Write plain HTML markup with minimum styling (just to make the layout), because you will implement styles in the following steps. Use this wireframe as a guide:.Don't make API calls (you'll do it in a following lesson). Use ES6 modules, with import and export.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tnyandoro/leaderboard.git"
+  },
+  "author": "Tendai Nyandoro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tnyandoro/leaderboard/issues"
+  },
+  "homepage": "https://github.com/tnyandoro/leaderboard#readme",
+  "devDependencies": {
+    "webpack": "^5.47.1",
+    "webpack-cli": "^4.7.2"
+  }
+}
