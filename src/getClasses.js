@@ -5,3 +5,5 @@ function getClasses() {
 console.log(wizard)
 console.log(barbarian)
 }
+
+export default getClasses;

@@ -1,7 +1,4 @@
-import { wizard } from './wizard.js';
-import { barbarian } from './barbarian';
+import getClasses from './getClasses';
 
-
-console.log('ran from index js');
-console.log(wizard)
-console.log(barbarian)
+console.log('ran from index.js');
+getClasses();
